@@ -1,6 +1,6 @@
 ## ⚙Rest API with Laravel
 
-#### This is a Tasks CRUD (Create, Read, Update, Delete) REST API Laravel project that provides a comprehensive authorization token management system. It allows users to perform authenticated operations on various resources while ensuring proper authorization and access control.(Only backend)
+#### This is a Tasks CRUD (Create, Read, Update, Delete) REST API Laravel project that provides a comprehensive authorization token management system. It allows users to perform authenticated operations on various resources while ensuring proper authorization and access control.(Only backend without frontend)
 
 ## Technologies
 
